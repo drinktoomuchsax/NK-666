@@ -1,7 +1,7 @@
 <div>
 <p align="center">
 <a href="https://art.pixilart.com/sr25cf3809ef66c.png" >
-  <img width="190" src="nk666.png" alt="NK-666 LOGO logo">
+  <img width="270" src="nk666.png" alt="NK-666 LOGO logo">
 </a>
   </p>  
 <h1 align="center">
