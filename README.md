@@ -14,9 +14,7 @@
 
 ---
 
-# Table of Contents
-
-- [Table of Contents](#table-of-contents)
+# :world_map:Table of Contents
   - [NK-002](#nk-002)
   - [NK-006](#nk-006)
   - [NK-012](#nk-012)
